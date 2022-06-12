@@ -66,15 +66,15 @@ if __name__ == "__main__":
                     #--------------------------------------------------------------------
                     start_position = first + bullshit_skipping
                     finish_position = start_position
-                    while links_html[finish_position].isdigit() or links_html[finish_position]=='.':
+                    while links_html[finish_position].isdigit() or links_html[finish_position]=='.': #the dot may be in the first most important half of figures
                         finish_position += 1
                     first_part_of_currency = links_html[start_position: finish_position]
 
 
-                    bullshit_skipping = len("faded-digits") + 2
+                    bullshit_skipping = len("faded-digits") + 2 #the two characters are '">' at the end of the html tag
                     start_position = links_html.find("faded-digits", finish_position-1) + bullshit_skipping
                     finish_position = start_position
-                    while links_html[finish_position].isdigit() or links_html[finish_position]=='.':
+                    while links_html[finish_position].isdigit() or links_html[finish_position]=='.':#or the dot may be in the second most important half of figures
                         finish_position += 1
                     second_part_of_currency = links_html[start_position: finish_position]
                     result = first_part_of_currency + second_part_of_currency
