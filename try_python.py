@@ -1,17 +1,19 @@
 from os import link
 import requests
 
-coins_list = [ "", "CHF", "CAD", "EUR", "GBP",  "JPY", "NZD", "USD"]
+coins_list = [ "", "CHF", "CAD", "EUR", "GBP",  "JPY", "NZD", "USD", "XAU", "XAG"]
 link_root = "https://www.xe.com/currencyconverter/convert/?Amount=1&From="
 n = len(coins_list)
 cnt = 1
-#special cases due to the length of the number or :
+#furthermore there are going to be added the following cryptocoins:
 '''
-    1. XBT # these three
-    2. XAU # are going to
-    3. XAG # be added
+    1. BTC - Bitcoin
+    2. ETH - Ethereum
+    3. XRP - Ripple
+    4. ADA - Cardano
+    5. LTC - Litecoin
+    6. BCH - Bitcoin Cash
 '''
-extension_list = ["XBT", "XAU", "XAG"]
 # the plan behind the programme
 '''
     the currencies Ima use in this banking system
@@ -24,10 +26,13 @@ extension_list = ["XBT", "XAU", "XAG"]
         NZD - New Zeeland Dollar
         USD - United States Dollar
     ---------------------------------
+    2. The 2 precious metals:
+        XAU - gold
+        XAG - silver
+    ---------------------------------
+    TOTAL COINS USED: 9
 
-    TOTAL COINS USED: 7
-
-    the number of pairs: C(7, 2) = 21 pairs
+    the number of pairs: C(9, 2) = 36 pairs
 '''
 
 def seed_file():
