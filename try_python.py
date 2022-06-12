@@ -1,19 +1,10 @@
 from os import link
 import requests
 
-coins_list = [ "", "CHF", "CAD", "EUR", "GBP",  "JPY", "NZD", "USD", "XAU", "XAG"]
+coins_list = [ "", "CHF", "CAD", "EUR", "GBP",  "JPY", "NZD", "USD", "XAU", "XAG", "BTC", "ETH", "XRP", "ADA", "LTC", "BCH"]
 link_root = "https://www.xe.com/currencyconverter/convert/?Amount=1&From="
 n = len(coins_list)
 cnt = 1
-#furthermore there are going to be added the following cryptocoins:
-'''
-    1. BTC - Bitcoin
-    2. ETH - Ethereum
-    3. XRP - Ripple
-    4. ADA - Cardano
-    5. LTC - Litecoin
-    6. BCH - Bitcoin Cash
-'''
 # the plan behind the programme
 '''
     the currencies Ima use in this banking system
@@ -30,9 +21,17 @@ cnt = 1
         XAU - gold
         XAG - silver
     ---------------------------------
-    TOTAL COINS USED: 9
+    3. The 6 crypto coins:
+        BTC - Bitcoin
+        ETH - Ethereum
+        XRP - Ripple
+        ADA - Cardano
+        LTC - Litecoin
+        BCH - Bitcoin Cash
+    ---------------------------------
+    TOTAL COINS USED: 15
 
-    the number of pairs: C(9, 2) = 36 pairs
+    the number of pairs: C(15, 2) = 105 pairs(webpage links)
 '''
 
 def seed_file():
@@ -84,4 +83,4 @@ if __name__ == "__main__":
                     second_part_of_currency = links_html[start_position: finish_position]
                     result = first_part_of_currency + second_part_of_currency
 
-                    currencies.write("by selling 1"+coins_list[i]+" you can buy "+result+coins_list[j]+"\n")
+                    currencies.write("by selling 1 "+coins_list[i]+" you can buy "+result+" "+coins_list[j]+"\n")

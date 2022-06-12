@@ -1,36 +1,105 @@
-by selling 1CHF you can buy 1.2932832CAD
-by selling 1CHF you can buy 0.95834014EUR
-by selling 1CHF you can buy 0.82091042GBP
-by selling 1CHF you can buy 135.9524JPY
-by selling 1CHF you can buy 1.59371NZD
-by selling 1CHF you can buy 1.011818USD
-by selling 1CHF you can buy 0.000540901941625XAU
-by selling 1CHF you can buy 0.046221639866211XAG
-by selling 1CAD you can buy 0.74245179EUR
-by selling 1CAD you can buy 0.63474916GBP
-by selling 1CAD you can buy 105.12191JPY
-by selling 1CAD you can buy 1.2322977NZD
-by selling 1CAD you can buy 0.78233334USD
-by selling 1CAD you can buy 0.000418075382245XAU
-by selling 1CAD you can buy 0.035722727783831XAG
-by selling 1EUR you can buy 0.85434694GBP
-by selling 1EUR you can buy 141.59054JPY
-by selling 1EUR you can buy 1.6629899NZD
-by selling 1EUR you can buy 1.0520739USD
-by selling 1EUR you can buy 0.000565754111477XAU
-by selling 1EUR you can buy 0.048016334372921XAG
-by selling 1GBP you can buy 165.61173JPY
-by selling 1GBP you can buy 1.9413933NZD
-by selling 1GBP you can buy 1.2325559USD
-by selling 1GBP you can buy 0.000658102856824XAU
-by selling 1GBP you can buy 0.056237774445629XAG
-by selling 1JPY you can buy 0.011722559NZD
-by selling 1JPY you can buy 0.0074424434USD
-by selling 1JPY you can buy 0.000003975310456XAU
-by selling 1JPY you can buy 0.000339701408282XAG
-by selling 1NZD you can buy 0.63499502USD
-by selling 1NZD you can buy 0.000339207808089XAU
-by selling 1NZD you can buy 0.028986081504483XAG
-by selling 1USD you can buy 0.0005343612XAU
-by selling 1USD you can buy 0.0456620764XAG
-by selling 1XAU you can buy 85.45205826045786XAG
+by selling 1 CHF you can buy 1.2932832 CAD
+by selling 1 CHF you can buy 0.95834014 EUR
+by selling 1 CHF you can buy 0.82091042 GBP
+by selling 1 CHF you can buy 135.9524 JPY
+by selling 1 CHF you can buy 1.59371 NZD
+by selling 1 CHF you can buy 1.011818 USD
+by selling 1 CHF you can buy 0.000540901941625 XAU
+by selling 1 CHF you can buy 0.046221639866211 XAG
+by selling 1 CHF you can buy 0.000037006691708 BTC
+by selling 1 CHF you can buy 0.000694055092881 ETH
+by selling 1 CHF you can buy 2.8845555 XRP
+by selling 1 CHF you can buy 1.974428228983629 ADA
+by selling 1 CHF you can buy 0.020479168708182 LTC
+by selling 1 CHF you can buy 0.006684163157617 BCH
+by selling 1 CAD you can buy 0.74245179 EUR
+by selling 1 CAD you can buy 0.63474916 GBP
+by selling 1 CAD you can buy 105.12191 JPY
+by selling 1 CAD you can buy 1.2322977 NZD
+by selling 1 CAD you can buy 0.78233334 USD
+by selling 1 CAD you can buy 0.000418075382245 XAU
+by selling 1 CAD you can buy 0.035722727783831 XAG
+by selling 1 CAD you can buy 0.000028595525154 BTC
+by selling 1 CAD you can buy 0.00053624528639 ETH
+by selling 1 CAD you can buy 2.2286837 XRP
+by selling 1 CAD you can buy 1.525495370566589 ADA
+by selling 1 CAD you can buy 0.015822746351973 LTC
+by selling 1 CAD you can buy 0.005164360903766 BCH
+by selling 1 EUR you can buy 0.85434694 GBP
+by selling 1 EUR you can buy 141.59054 JPY
+by selling 1 EUR you can buy 1.6629899 NZD
+by selling 1 EUR you can buy 1.0520739 USD
+by selling 1 EUR you can buy 0.000565754111477 XAU
+by selling 1 EUR you can buy 0.048016334372921 XAG
+by selling 1 EUR you can buy 0.000038441641266 BTC
+by selling 1 EUR you can buy 0.000720912742058 ETH
+by selling 1 EUR you can buy 2.9961783 XRP
+by selling 1 EUR you can buy 2.050832107067349 ADA
+by selling 1 EUR you can buy 0.021271645176188 LTC
+by selling 1 EUR you can buy 0.006942818285967 BCH
+by selling 1 GBP you can buy 165.61173 JPY
+by selling 1 GBP you can buy 1.9413933 NZD
+by selling 1 GBP you can buy 1.2325559 USD
+by selling 1 GBP you can buy 0.000658102856824 XAU
+by selling 1 GBP you can buy 0.056237774445629 XAG
+by selling 1 GBP you can buy 0.000045022452105 BTC
+by selling 1 GBP you can buy 0.00084425152955 ETH
+by selling 1 GBP you can buy 3.5087854 XRP
+by selling 1 GBP you can buy 2.401702789019575 ADA
+by selling 1 GBP you can buy 0.024910946815505 LTC
+by selling 1 GBP you can buy 0.00813064413396 BCH
+by selling 1 JPY you can buy 0.011722559 NZD
+by selling 1 JPY you can buy 0.0074424434 USD
+by selling 1 JPY you can buy 0.000003975310456 XAU
+by selling 1 JPY you can buy 0.000339701408282 XAG
+by selling 1 JPY you can buy 0.00000027189083 BTC
+by selling 1 JPY you can buy 0.000005093904384 ETH
+by selling 1 JPY you can buy 0.021187981 XRP
+by selling 1 JPY you can buy 0.014507996213568 ADA
+by selling 1 JPY you can buy 0.000150514173078 LTC
+by selling 1 JPY you can buy 0.000049117588323 BCH
+by selling 1 NZD you can buy 0.63499502 USD
+by selling 1 NZD you can buy 0.000339207808089 XAU
+by selling 1 NZD you can buy 0.028986081504483 XAG
+by selling 1 NZD you can buy 0.000023203878308 BTC
+by selling 1 NZD you can buy 0.000435208464203 ETH
+by selling 1 NZD you can buy 1.8098074 XRP
+by selling 1 NZD you can buy 1.239225125150924 ADA
+by selling 1 NZD you can buy 0.012856423604176 LTC
+by selling 1 NZD you can buy 0.004195462187959 BCH
+by selling 1 USD you can buy 0.0005343612 XAU
+by selling 1 USD you can buy 0.0456620764 XAG
+by selling 1 USD you can buy 0.0000365601 BTC
+by selling 1 USD you can buy 0.0006596635 ETH
+by selling 1 USD you can buy 2.852579 XRP
+by selling 1 USD you can buy 1.953239645 ADA
+by selling 1 USD you can buy 0.0202640148 LTC
+by selling 1 USD you can buy 0.0066127961 BCH
+by selling 1 XAU you can buy 85.45205826045786 XAG
+by selling 1 XAU you can buy 0.068454902554076 BTC
+by selling 1 XAU you can buy 1.286756390158566 ETH
+by selling 1 XAU you can buy 557 XRP
+by selling 1 XAU you can buy 3 ADA
+by selling 1 XAU you can buy 38.01186463028968 LTC
+by selling 1 XAU you can buy 12.404487100004859 BCH
+by selling 1 XAG you can buy 0.000801185716554 BTC
+by selling 1 XAG you can buy 0.015065150861311 ETH
+by selling 1 XAG you can buy 62.648187 XRP
+by selling 1 XAG you can buy 42.896944791030805 ADA
+by selling 1 XAG you can buy 0.445037211048535 LTC
+by selling 1 XAG you can buy 0.145229874860565 BCH
+by selling 1 BTC you can buy 18.71044563610476 ETH
+by selling 1 BTC you can buy 777 XRP
+by selling 1 BTC you can buy 53 ADA
+by selling 1 BTC you can buy 552.722280714196 LTC
+by selling 1 BTC you can buy 180.37095700749 BCH
+by selling 1 ETH you can buy 439 XRP
+by selling 1 ETH you can buy 2 ADA
+by selling 1 ETH you can buy 29.540839991947124 LTC
+by selling 1 ETH you can buy 9.640120845621963 BCH
+by selling 1 XRP you can buy 0.684727630871333 ADA
+by selling 1 XRP you can buy 0.00710375241536 LTC
+by selling 1 XRP you can buy 0.002318181600798 BCH
+by selling 1 ADA you can buy 0.010374566608799 LTC
+by selling 1 ADA you can buy 0.003385552877205 BCH
+by selling 1 LTC you can buy 0.326331981360377 BCH
